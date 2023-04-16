@@ -1,0 +1,48 @@
+Konserwacja / czyszczenie wentylatorow, wymiana pasty termo-przewodzacej:150:
+Zlozenie komputera z czesci klienta:150:
+Wymiana plyty glownej:170:
+Wymiana / dodanie karty graficznej:50:
+Wymiana zasilacza:70:
+Wymiana procesora:70:
+Wymiana / dodanie pamieci RAM:30:
+Wymiana / dodanie karty rozszerzen (np.karta tv, karta sieciowa, karta dzwiekowa, kontroler usb):30:
+Wymiana / dodanie dysku twardego:30:
+Wymiana / dodanie napedow optycznych:30:
+Czyszczenie czytnika napedu optycznego:60:
+Wymiana baterii dla ukladu CMOS (BIOS):30:
+Wymiana / modernizacja ukladu chlodzenia:40:
+Laptop-Wymiana plyty glownej:120:
+Laptop-Konserwacja ukladu chlodzenia, wymiana pasty i czyszczenie laptopa:150:
+Laptop-Wymiana klawiatury:120:
+Laptop-Wymiana inwertera:100:
+Laptop-Wymiana / dodanie pamieci RAM:60:
+Laptop-Wymiana dysku twardego:50:
+Laptop-Wymiana uszkodzonej matrycy LCD:120:
+Laptop-Wymiana tasmy matrycy:150:
+Laptop-Wymiana karty WIFI:50:
+Laptop-Wymiana ukladu chlodzenia:120:
+Laptop-Wymiana procesora:120:
+Laptop-Wymiana napedu optycznego:40:
+Laptop-Wymiana baterii dla ukladu CMOS (BIOS):80:
+Laptop-Czyszczenie klawiatury:130:
+Laptop-Czyszczenie czytnika napedu optycznego:40:
+Optymalizacja systemu, usuwanie wirusow, trojanow, dialerow, adware, spyware, zbednego oprogramowania:150:
+Resetowanie hasla dla konta administrator (tylko systemy Windows):50:
+Rozwiazanie problemu z uruchomieniem systemu Windows:120:
+Podstawowa instalacja systemu operacyjnego Windows 95/98/2000/ME/XP/Vista/7/8/8.1/10:90:
+Instalacja systemu operacyjnego Windows + sterowniki, poczta, antywirus, oprogramowanie:150:
+Instalacja systemu operacyjnego Linux + sterowniki:170:
+Konfiguracja BIOS-u:30:
+Aktualizacja BIOS-u:70:
+Aktualizacja oprogramowania lub systemu operacyjnego:40:
+Podzial dysku twardego na partycje i formatowanie:30:
+Przenoszenie danych i archiwizacja na plytach CD, DVD, pamieciach typu pendrive lub dyskach zewnetrznych:300:
+Odzyskanie utraconych  danych z dysku twardego, pamieci typu pendrive lub kraty pamieci:5000:
+Stworzenie kopii bezpieczenstwa ,,recovery" - kopia zapasowa systemu:30:
+Przywrocenie kopii bezpieczenstwa ,,recovery" - kopia zapasowa systemu:50:
+Instalacja aplikacji, oprogramowania, sterownikow:100:
+Konfiguracja oprogramowania:30:
+Konfiguracja urzadzen sieciowych (modemy, switche, routery):150:
+Instalacja i konfiguracja urzadzen sieciowych (modemy, switche, routery):200:
+Odzyskiwanie parametrow dostepowych do Internetu operatorow takich jak Orange, Netia:30:
+Rozwiazanie problemu z dostepem do internetu:60:
